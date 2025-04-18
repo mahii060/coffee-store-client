@@ -36,7 +36,7 @@ const AddCoffee = () => {
         // console.log(newCoffee);
     }
     return (
-        <div className="bg-gray-600 md:p-24 p-2">
+        <div className="bg-gray-100 md:p-24 p-2">
             <h1 className="text-5xl font-semibold text-center text-orange-500">Add coffee</h1>
             <form onSubmit={handleAddCoffee}>
                 {/* Form name and quantity row */}

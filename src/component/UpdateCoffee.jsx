@@ -2,7 +2,7 @@
 const UpdateCoffee = () => {
     return (
         <div>
-            <h2 className="text-lg text-center text-purple-600">Update your coffee.</h2>
+            <h2 className="text-5xl font-semibold text-center text-blue-600">Update your coffee: .</h2>
         </div>
     );
 };
